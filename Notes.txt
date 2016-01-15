@@ -137,4 +137,13 @@ Fri Jan 15 21:55:57 2016
 
 
 To try:
-See if we can get a better version of cuda.  This will require more disk?
+See if we can get a better version of cuda.  This will require more disk?  It works fine if you use a different filesystem.  However the latesst version of cuda is already installed.   Maybe the graphics cards themselves are too old to have direct peer to peer access.  
+
+http://tleyden.github.io/blog/2014/10/25/cuda-6-dot-5-on-aws-gpu-instance-running-ubuntu-14-dot-04/
+
+Saving to: ‘cuda_6.5.14_linux_64.run’
+
+59% [===============================================>                                  ] 574,466,440 12.9MB/s   in 55s
+
+
+Cannot write to ‘cuda_6.5.14_linux_64.run’ (No space left on device).
