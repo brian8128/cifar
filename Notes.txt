@@ -134,3 +134,7 @@ Fri Jan 15 21:55:57 2016
 |    2      1881    C   python                                        3820MiB |
 |    3      1881    C   python                                        3820MiB |
 +-----------------------------------------------------------------------------+
+
+
+To try:
+See if we can get a better version of cuda.  This will require more disk?
