@@ -2,9 +2,10 @@
 Playing with Googles image classification CNN
 
 Goals:
-Save the model and work on it later
 
 Run the model on EC2
+
+Save the model and work on it later
 
 Automatically request ec2 instances and work on the model when they're cheap
 * Can we create an AMI that has everything we need that automatically starts working on training the (current) model
