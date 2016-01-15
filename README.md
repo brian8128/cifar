@@ -1,10 +1,16 @@
-CIFAR-10 is a common benchmark in machine learning for image recognition.
+# cifar
+Playing with Googles image classification CNN
 
-http://www.cs.toronto.edu/~kriz/cifar.html
+Goals:
 
-Code in this directory demonstrates how to use TensorFlow to train and evaluate a convolutional neural network (CNN) on both CPU and GPU. We also demonstrate how to train a CNN over multiple GPUs.
+Run the model on EC2
 
-Detailed instructions on how to get started available at:
+Save the model and work on it later
 
-http://tensorflow.org/tutorials/deep_cnn/
+Automatically request ec2 instances and work on the model when they're cheap
+* Can we create an AMI that has everything we need that automatically starts working on training the (current) model
+  on startup and saves periodically
 
+Modify the model parameters
+
+Incorporate some deep dream like ideas: What happens when we train an image of a truck to be more cat like?
