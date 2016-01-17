@@ -211,3 +211,5 @@ Sun Jan 17 05:04:59 2016
 |=============================================================================|
 |    0      1501    C   python                                        3820MiB |
 +-----------------------------------------------------------------------------+
+
+Single GPU mode failed at first but now succeedes after I ran the multi gpu mode.  Performance is similar, perhaps slightly faster.  
